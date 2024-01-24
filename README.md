@@ -4,7 +4,7 @@ Hi 👋 My name is Asan Dzhuzbaev
 Python Developer | Web Scraping expert
 --------------------------------------
 
-I'm a Python Developer with experience in Web Scraping and Data Analysis. I build web apps with Django, create scrapers with Scrapy, Selenium, and Playwright, and analyze data with Pandas. Also, I have experience working with AWS. I work in IT to make life easier for people (as well as for myself).
+I'm a Backend Python Developer with experience in Web Scraping (traffic interception, API reversing, and data extraction). I am experienced in creating and supporting REST APIs. I create scrapers with Scrapy, Selenium, and Playwright. Also, I have experience working with AWS.
 
 * 🌍  I'm based in Bishkek, Kyrgyzstan
 * ✉️  You can contact me at [dzhuzbaevasan@gmail.com](mailto:dzhuzbaevasan@gmail.com)
